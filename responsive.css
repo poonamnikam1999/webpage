@@ -1,6 +1,7 @@
 @media (max-width:412px) {
     .container .icon .imgbg{
-        left:150px;
+        /* left:190px; */
+        left:0;
         height: 400px;
         width: 400px;
         bottom:0;
@@ -9,7 +10,8 @@
         top:200px;
     }
     .icon-center{
-        left:50px;
+        /* left:60px; */
+        left: 0;
         top: 150px;
         height: 300px;
         width: 300px;
