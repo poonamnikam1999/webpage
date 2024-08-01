@@ -22,7 +22,7 @@ body{
     position: relative;
     width: 1200px;
     height: 620px;
-    background-image: url('/Images/background plain.png');
+    background-image: url('Images/background plain.png');
     background-repeat: no-repeat;
     background-size: cover;
     /* border: 1px solid #fff; */
