@@ -1,0 +1,17 @@
+@media (max-width:412px){
+    .container .icon .imgbg{
+        left:210px;
+        height: 400px;
+        width: 400px;
+        bottom:0;
+    }
+    .container .icon .imgbg img{
+        top:200px;
+    }
+    .icon-center{
+        left:60px;
+        top: 150px;
+        height: 300px;
+        width: 300px;
+    }
+}
