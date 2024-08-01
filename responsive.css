@@ -1,4 +1,4 @@
-@media (max-width:412px){
+@media all and (min-width:412px) and (max-width:914px) {
     .container .icon .imgbg{
         left:210px;
         height: 400px;
