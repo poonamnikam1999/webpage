@@ -1,7 +1,6 @@
-@media (max-width:412px) {
+/* @media (max-width:412px) {
     .container .icon .imgbg{
         left:190px;
-        /* left:0; */
         height: 400px;
         width: 400px;
         bottom:0;
@@ -11,17 +10,38 @@
     }
     .icon-center{
         left:60px;
-        /* left: 0; */
+        top: 150px;
+        height: 300px;
+        width: 300px;
+    }
+} */
+@media all and (min-width:412px) and (max-width:914px){
+    .container .icon .imgbg{
+        left:270px!important;
+        height: 400px;
+        width: 400px;
+        bottom:0;
+    }
+    .container .icon .imgbg img{
+        top:200px;
+    }
+    .icon-center{
+        left:90px!important;
         top: 150px;
         height: 300px;
         width: 300px;
     }
 }
+
+
 @media all and (min-width:360px) and (max-width:740px){
     .container .icon .imgbg{
         left:200px;
         height: 300px;
         width: 300px;
+    }
+    .container .icon .imgbg img{
+        top:200px;
     }
     .icon-center{
         top: 175px;
